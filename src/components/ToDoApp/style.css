@@ -1,0 +1,11 @@
+.todo-list-container {
+    width: 51%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    .todo-list-container {
+        width: 80%;
+    }
+}
